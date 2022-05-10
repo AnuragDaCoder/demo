@@ -1,4 +1,4 @@
-{
+const data = {
   name: "India",
   RootFolder: true,
   DeathCount: 1000,
@@ -76,4 +76,5 @@
       ],
     },
   ],
-}
+};
+
